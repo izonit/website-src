@@ -2,6 +2,11 @@ import React from 'react';
 import '@/styles/footer.css';
 import '@/styles/style.css';
 
+/**
+ * The website footer
+ * 
+ * @returns The footer JSX element
+ */
 export default function Footer() {
   return (
     <>

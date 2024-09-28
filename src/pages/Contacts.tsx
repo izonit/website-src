@@ -5,6 +5,12 @@ import '@/styles/style.css';
 import '@/styles/contacts.css';
 import { faDiscord, faReddit, faGithub } from '@fortawesome/free-brands-svg-icons';
 
+/**
+ * The page that contains links to all contacts
+ * 
+ * @returns The "contacts" page JSX element
+ */
+
 export default function Contacts() {
   return (
     <>
