@@ -1,0 +1,54 @@
+/* Common public properties */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;700&family=Roboto:wght@300;400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+body {
+  background-color: #1c1c1c;
+  background-image: url('https://img.freepik.com/free-vector/abstract-business-professional-background-banner-design-multipurpose_1340-16856.jpg?t=st=1727529019~exp=1727532619~hmac=9f9580a280b79d7c5ccfa2b7df1dde7f0beb8d4d55727481ee9626250943286d&w=900');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+h1, h2, h3, h4, h5, h6, p {
+  color: #f0f0f0;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 300;
+  margin-left: 20px;
+}
+
+/* General styles */
+
+.center {
+  display: flex;
+  justify-content: center;
+  margin-top: 25px;
+  align-items: center;
+}
+
+.title {
+  color: #f0f0f0;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 300;
+  font-size: 3rem;
+  line-height: 3rem;
+  margin-left: 20px;
+}
+
+
+.subtitle {
+  color: #f0f0f0;
+  font-family: 'Segoe UI', sans-serif;
+  font-weight: 225;
+  font-size: 2rem;
+  line-height: 1.5rem;
+}
+
+.link {
+  text-decoration: none;
+  color: #0b5d68
+}
+
+.link:hover::after {
+  content: " ⟶";
+  color: gold;
+}
