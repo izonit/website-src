@@ -12,7 +12,7 @@ export default function Contacts() {
       <div className="container">
         <div className="contact-section">
           <div className="contact-info">
-            <h2>Contact Us</h2>
+            <h2>Here's a list of my contacts.</h2>
           </div>
           <div className="contact-icons">
             <a href="https://reddit.com/u/izonit" target="_blank">
