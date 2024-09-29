@@ -7,6 +7,8 @@ body {
   background-image: url('https://img.freepik.com/free-vector/abstract-business-professional-background-banner-design-multipurpose_1340-16856.jpg?t=st=1727529019~exp=1727532619~hmac=9f9580a280b79d7c5ccfa2b7df1dde7f0beb8d4d55727481ee9626250943286d&w=900');
   background-size: cover;
   background-repeat: no-repeat;
+  background-position: center;
+  min-height: 100vh;
 }
 
 h1, h2, h3, h4, h5, h6, p {
