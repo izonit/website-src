@@ -12,7 +12,7 @@ export default function Home() {
   return (
     <>
       <div className="center">
-        <h1 className="title">Welcome!</h1>
+        <h1 className="title">Hello and welcome.</h1>
       </div>
       <h2 className='subtitle'>I am Mizorint 🌞</h2>
       <h3>...and this is my website!</h3>

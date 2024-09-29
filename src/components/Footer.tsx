@@ -11,7 +11,7 @@ export default function Footer() {
   return (
     <>
       <div className="footer">
-        <h4>Made with 💖 by <a href='https://github.com/izonit' target='_blank' className='link'>Mizorint</a></h4>
+        <h4>Made with 💖 by <a href='https://github.com/izonit' target='_blank' className='link'>Mizorint</a> // <a target='_blank' href='https://github.com/izonit/website-src' className='link'>Source code</a></h4>
       </div>
     </>
   );
