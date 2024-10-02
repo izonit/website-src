@@ -10,7 +10,7 @@
 }
 
 .typing-effect {
-  width: 16ch;
+  width: 16ch; /* the 16 characters part is very hardcoded - because the code is not mine haha. */
   animation: typing 1.5s steps(25), blink .5s step-end infinite alternate;
   white-space: nowrap;
   overflow: hidden;
@@ -21,7 +21,7 @@
 @keyframes typing {
   from {
     width: 0
-  }
+  } 
 }
     
 @keyframes blink {
