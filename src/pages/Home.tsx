@@ -1,7 +1,8 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 
-import '@/styles/style.css'
+import '@/styles/style.css';
+import '@/styles/typingEffect.css';
 
 /**
  * The home page that is the main landing page
@@ -11,8 +12,8 @@ import '@/styles/style.css'
 export default function Home() {
   return (
     <>
-      <div className="center">
-        <h1 className="title">Hello and welcome.</h1>
+      <div className="wrapper">
+        <h1 className="title typing-effect">Hello and welcome.</h1>
       </div>
       <h2 className='subtitle'>I am Mizorint 🌞</h2>
       <h3>...and this is my website!</h3>

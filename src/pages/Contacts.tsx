@@ -1,9 +1,11 @@
-import React, { useState } from 'react';
+import { faDiscord, faGithub, faTelegram } from '@fortawesome/free-brands-svg-icons';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faDiscord, faTelegram, faGithub } from '@fortawesome/free-brands-svg-icons';
-import Modal from '@/components/Modal'; // Import your Modal component
-import '@/styles/style.css';
+import React, { useState } from 'react';
+
+import Modal from '@/components/Modal';
+
 import '@/styles/contacts.css';
+import '@/styles/style.css';
 
 export default function Contacts() {
   const [showModal, setShowModal] = useState(false);
