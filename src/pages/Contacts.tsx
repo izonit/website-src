@@ -29,7 +29,7 @@ export default function Contacts() {
             <a href="https://github.com/izonit" target="_blank">
               <FontAwesomeIcon icon={faGithub} size="2x" />
             </a>
-            <a href="https://t.me/izonit2" target="_blank">
+            <a href="https://t.me/mizorint" target="_blank">
               <FontAwesomeIcon icon={faTelegram} size="2x" />
             </a>
           </div>
