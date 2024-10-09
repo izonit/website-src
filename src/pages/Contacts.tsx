@@ -7,6 +7,12 @@ import Modal from '@/components/Modal';
 import '@/styles/contacts.css';
 import '@/styles/style.css';
 
+/**
+ * The Contacts page - describes my contact info.
+ *
+ * @returns the "Contacts" JSX element.
+ */
+
 export default function Contacts() {
   const [showModal, setShowModal] = useState(false);
 

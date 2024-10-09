@@ -1,7 +1,7 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 
-import '@/styles/style.css'
+import '@/styles/style.css';
 
 /**
  * The About page that contains all the information about the application

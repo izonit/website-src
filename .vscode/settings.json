@@ -7,7 +7,7 @@
   "git.enableSmartCommit": true,
   "codeium.enableCodeLens": true,
   "css.validate": false,
-  "workbench.colorTheme": "Ayu Dark",
+  "workbench.colorTheme": "Gruvbox Dark Hard",
   "editor.minimap.renderCharacters": false,
   "editor.fontFamily": "JetBrains Mono",
   "editor.renderWhitespace": "none",
@@ -18,7 +18,8 @@
   },
   "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
   "editor.codeActionsOnSave": {
-
+    "source.organizeImports": true,
+    "source.fixAll": true
   },
   "window.titleSeparator": " | ",
   "window.commandCenter": true,
