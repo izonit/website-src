@@ -9,7 +9,7 @@
   "css.validate": false,
   "workbench.colorTheme": "Gruvbox Dark Hard",
   "editor.minimap.renderCharacters": false,
-  "editor.fontFamily": "JetBrains Mono",
+  "editor.fontFamily": "Fira Code",
   "editor.renderWhitespace": "none",
   "editor.cursorStyle": "line-thin",
   "files.exclude": {
