@@ -19,7 +19,7 @@ export default function Modal({ show, onClose }: ModalProps) {
     <div className="modal-backdrop" onClick={onClose}>
       <div className="modal-content" onClick={(e) => e.stopPropagation()}>
         <h2>Discord Contact Info</h2>
-        <p><strong>@mizorint</strong> is my nickname. Feel free to DM.</p>
+        <p><strong>@mizorint_</strong> is my nickname. Feel free to DM or send friend requests.</p>
         <button onClick={onClose} className="close-btn">Close</button>
       </div>
     </div>
